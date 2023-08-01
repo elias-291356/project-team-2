@@ -6,11 +6,11 @@
 
 @import './layout/header.css';
 @import './layout/hero.css';
-@import './layout/order.css';
-@import './layout/buystep.css';
-@import './layout/discount.css';
-@import './layout/products.css';
+@import './layout/how-it-works.css';
+
+@import './layout/Adverstiment.css';
+@import './layout/Vegetables.css';
 @import './layout/delivery.css';
-@import './layout/recall.css';
+@import './layout/wi-will-call-you.css';
 @import './layout/footer.css';
 @import './layout/modal.css';
