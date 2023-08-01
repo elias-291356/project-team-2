@@ -1,0 +1,88 @@
+.subtitile {
+  min-width: 335px;
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1, 17;
+  letter-spacing: -0.96px;
+  text-transform: uppercase;
+
+  color: var(--black);
+  margin-bottom: 14px;
+}
+
+.vegetables-text {
+  margin-bottom: 40px;
+}
+
+.vegetables-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 444px;
+}
+
+.vegetables-item {
+  padding: 40px 20px 20px;
+}
+
+.vegetables-item-title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: -0.96px;
+  margin-bottom: 8px;
+}
+
+.vegetables-item-text {
+  margin-bottom: 36px;
+}
+
+.vegetables-item-picture {
+  margin-bottom: auto;
+}
+
+.vegetables-item-cost {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.29;
+  letter-spacing: -0.56px;
+}
+
+.vegetables-button {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  fill: var(--orange);
+}
+
+.vegetables-button-rotate {
+  display: flex;
+  width: 65px;
+  height: 28px;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+.vegetables-button-icon {
+  fill: rgb(255, 255, 255);
+}
+
+.vegetables-button-name {
+  transform: rotate(-14deg);
+  text-align: center;
+  text-shadow: 0px 4px 70px 0px rgba(0, 0, 0, 0.1);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.29;
+  letter-spacing: -0.56px;
+  text-transform: uppercase;
+
+  color: rgb(255, 255, 255);
+}
+
+.disp-none {
+  display: none;
+}
